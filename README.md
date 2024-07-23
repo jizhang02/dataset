@@ -123,6 +123,8 @@
    * [CAMELYON](#camelyon)
 * [心电图](#心电图)
    * [CAMELYON](#camelyon-1)
+* [超声图](#超声图)
+   * [HC18 胎儿头围](#胎儿头围)
 * [交流群](#交流群)
 * [医学影像数据库](#医学影像数据库)
 * [参考项目/列表](#参考项目列表)
@@ -997,6 +999,16 @@ Early Breast Cancer Core-Needle Biopsy WSI (BCNB) Dataset，早期乳腺癌患�
 
 [//]: # (TODO: Aistudio下载)
 
+# 超声图
+
+## 胎儿头围
+| 名称 | 标注内容 | 类型 | 模态 | 数量 | 标签格式 | 文件格式 | License |
+| - | - | - | - | - | - | - | - |
+| [HC18](https://hc18.grand-challenge.org/) | 胎儿头围 | 分割 | 超声图 | 训练集 999 | 胎儿头围数值，胎儿头围形状（椭圆） | png | Creative Commons Attribution 4.0 International|
+
+![HC18](static/hc18.jpeg)
+
+[//]: # (TODO: Aistudio下载)
 
 
 # 交流群
